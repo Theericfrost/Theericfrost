@@ -16,10 +16,14 @@ This repository contains some of my projects and code samples. Feel free to use 
 <table>
   <tr>
      <td valign="top">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theericfrost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
     </td>
     <td valign="top">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theericfrost&theme=solarized_dark)
+
     </td>
   </tr>
 </table>
