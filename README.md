@@ -13,11 +13,13 @@ In addition to my technical expertise, I'm a quick learner and work well in a te
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Using+this+repository)](https://git.io/typing-svg) <br/>
 This repository contains some of my projects and code samples. Feel free to use any of the code in your own projects.
 
-<div style="display: flex">
+<p align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theericfrost&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theericfrost&theme=solarized_dark)
-</div>
+</p>
 
+<p align="center">
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Theericfrost)](https://github.com/ignacio-cuadra/github-readme-codewars)
+ </p>
