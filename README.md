@@ -24,6 +24,5 @@ This repository contains some of my projects and code samples. Feel free to use 
 
 <div align="center">
   
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Theericfrost)](https://github.com/ignacio-cuadra/github-readme-codewars)
- 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Theericfrost)](https://github.com/KnlnKS/leetcode-stats)
  </div>
