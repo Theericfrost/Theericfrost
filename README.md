@@ -24,5 +24,5 @@ This repository contains some of my projects and code samples. Feel free to use 
 
 <div align="center">
   
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Theericfrost)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Theericfrost&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
  </div>
