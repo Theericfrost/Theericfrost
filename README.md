@@ -21,8 +21,3 @@ This repository contains some of my projects and code samples. Feel free to use 
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theericfrost&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
-
-<div align="center">
-  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Theericfrost&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
- </div>
